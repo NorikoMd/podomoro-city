@@ -1,0 +1,6 @@
+{
+  "name": "PomoFlow",
+  "description": "Aplikasi Pomodoro Timer Modern dengan integrasi to-do list, statistik fokus, dan audio synthesizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
